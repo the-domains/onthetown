@@ -1,0 +1,14 @@
+layout_spectrum: 0.41215855441987514
+typography_spectrum: 0.3802958258893341
+color:
+  brandStrength: 0.8286304334178567
+  lightness: 0.27719599613919854
+  saturation: 0.9846337784547359
+  rhythmicContrast: 0.759364596568048
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: onthetown
